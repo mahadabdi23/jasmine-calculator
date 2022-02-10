@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(9, 255, 0)
+}
+
+.taskDone {
+    text-decoration: line-through;
+    color: darkgray;
+}
+
+.note {
+    font-size: small;
+    color: rgb(88, 88, 88);
+}
